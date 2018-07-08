@@ -12,4 +12,4 @@ Uncompressed size is 19 GiB.
 ------------>contestant submitted files  
 
 Some files are missing due to special characters and encodings (mainly some of chinese contestants).  
-Prettier directory structure and language filtered files comming soon.
+Prettier directory structure, language filtered files and guides comming soon.
