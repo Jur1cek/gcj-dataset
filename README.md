@@ -1,5 +1,5 @@
 # Google Code Jam dataset
-Collected solutions from [Google Code Jam dataset programming competition](https://code.google.com/codejam/past-contests), years
+Collected solutions from [Google Code Jam dataset programming competition](https://codingcompetitions.withgoogle.com/codejam/archive), years
 # 2008-2019.  
 
 Full dataset (2008-2017) is available here http://dizp.fufygen.eu/gcj/gcj.zip  
